@@ -23,7 +23,7 @@ Kaggle link: [https://aistudio.baidu.com/datasetdetail/270658](https://aistudio.
 | **China Joint Internet Rumor-Busting Platform** | A joint rumor (fake news) display platform launched by the Chinese government. It contains fake news from all social media platforms in China.                            | [https://www.piyao.org.cn/](https://www.piyao.org.cn/)    |
 
 **_Collection:_**  
-The TWITTER dataset (i.e., Individual-Behavior [1] and Multi-Behavior [2]) uses publicly available datasets. Subsequently, the WEIBO dataset is constructed. The data collection process is shown in Figure 1.
+The TWITTER dataset (i.e., Individual-Behavior [1] and Multi-Behavior [2]) uses publicly available datasets. Subsequently, the WEIBO dataset is constructed. The data collection process is shown in Figure 2.
 
 ### Spammer Account Collection
 
