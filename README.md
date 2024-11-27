@@ -51,11 +51,8 @@ Because TWITTER is a typical unbalanced dataset, our initial intention is to con
 ---
 
 ### References
-[1] Leyan Deng, Chenwang Wu, Defu Lian, Yongji Wu, and Enhong Chen. Markov-driven graph convolutional networks for social spammer detection. IEEE Transactions on Knowledge 252
-and Data Engineering, 35(12):12310–12322, 2023. 
+[1] Leyan Deng, Chenwang Wu, Defu Lian, Yongji Wu, and Enhong Chen. Markov-driven graph convolutional networks for social spammer detection. IEEE Transactions on Knowledge and Data Engineering, 35(12):12310–12322, 2023. 
 
-[2] Yang Liu and Yi-Fang Wu. Early detection of fake news on social media through propagation path classification with 255
-recurrent and convolutional networks. In AAAI, 2018. 
+[2] Yang Liu and Yi-Fang Wu. Early detection of fake news on social media through propagation path classification with recurrent and convolutional networks. In AAAI, 2018. 
 
-[3] Jing Ma, Wei Gao, Zhongyu Wei, Yueming Lu, and KamFai Wong. Detect rumors using time series of social con- 258
-text information on microblogging websites. In CIKM, pages 1751–1754, 2015.
+[3] Jing Ma, Wei Gao, Zhongyu Wei, Yueming Lu, and KamFai Wong. Detect rumors using time series of social context information on microblogging websites. In CIKM, pages 1751–1754, 2015.
