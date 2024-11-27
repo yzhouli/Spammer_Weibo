@@ -8,11 +8,11 @@ Kaggle link: [https://aistudio.baidu.com/datasetdetail/270658](https://aistudio.
 
 # Datasets Construction
 
-![The original data obtained by the Weibo API.](json.png)  
-**Figure 1:** The original data obtained by the Weibo API. The figure shows a single comment data. In particular, `"comment_badge"`, `"user"`, and `"status"` are secondary dictionaries.
-
 ![Collection process for spammer accounts](weibo.png)  
-**Figure 2:** Collection process for spammer accounts
+**Figure 1:** Collection process for spammer accounts.
+
+![The original data obtained by the Weibo API.](json.png)  
+**Figure 2:** The original data obtained by the Weibo API. The figure shows a single comment data. In particular, `"comment_badge"`, `"user"`, and `"status"` are secondary dictionaries.
 
 | Source                               | Description                                                                                                                                                                | URL                                                       |
 |--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
@@ -23,7 +23,7 @@ Kaggle link: [https://aistudio.baidu.com/datasetdetail/270658](https://aistudio.
 | **China Joint Internet Rumor-Busting Platform** | A joint rumor (fake news) display platform launched by the Chinese government. It contains fake news from all social media platforms in China.                            | [https://www.piyao.org.cn/](https://www.piyao.org.cn/)    |
 
 **_Collection:_**  
-The TWITTER dataset (i.e., Individual-Behavior [1] and Multi-Behavior [2]) uses publicly available datasets. Subsequently, the WEIBO dataset is constructed. The data collection process is shown in Figure 2.
+The TWITTER dataset (i.e., Individual-Behavior [1] and Multi-Behavior [2]) uses publicly available datasets. Subsequently, the WEIBO dataset is constructed. The data collection process is shown in Figure 1.
 
 ### Spammer Account Collection
 
